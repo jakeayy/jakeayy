@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/47297843&w=182&h=182&mask=circle&fit=cover&mtrim&maxage=1d&output=webp" />
+  <img src="https://wsrv.nl/?url=codeberg.org/jakeayy/jakeayy.xyz/raw/branch/main/src/lib/assets/avatar.png&w=182&h=182&mask=circle&fit=cover&mtrim&maxage=1d&output=webp" />
   <h1 align=center>jakeayy</h1>
 </p>
 
