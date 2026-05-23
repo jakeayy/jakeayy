@@ -1,22 +1,7 @@
-<p align=center>
-  <img src="https://wsrv.nl/?url=codeberg.org/jakeayy/jakeayy.xyz/raw/branch/main/src/lib/assets/avatar.png&w=182&h=182&mask=circle&fit=cover&mtrim&maxage=1d&output=webp" />
-  <h1 align=center>jakeayy</h1>
-</p>
+<a href="https://jakeayy.xyz" target="_blank"><img src="readme.svg" width="100%" /></a>
 
-Welcome to my profile and enjoy my projects! ♥️
 
-**You might know me from projects such as:**
-- [Starshift](https://codeberg.org/jakeayy/starshift) - A powerful modloader for a game In Stars and Time;
-- [Discord GIF Validator](https://github.com/jakeayy/gif-validator) - Validates and then sorts broken saved GIFs on popular chatting platform - Discord;
-- [PAK Patcher](https://github.com/jakeayy/pak-patcher) - Utility tool for viewing, modifying and patching .PAK files easily with ability to add custom patches and filters! Often used for editing resources of Chromium-based browsers;
-- [GM Runtime Browser](https://github.com/jakeayy/gm-runtime-browser) - Website that allows in simple and nice UI to browse current as well as legacy versions of GameMaker Studio runners! Used for community-made ports of games made in GameMaker;
 
-<br><h2 align=center>About me</h2>
-
-- 👋 I'm 20 year old! (2005)
-- 📊 I like to calculate various data, make analytics of them and turn them into nice graph
-- 👾 I tend to experiment with inner workings of various apps and websites to help find potential vulnerabilities in them!
-- 🎨 In the free time I also learn video editing, game making as well as making music!
 
 <br><h2 align=center>Supporting these!</h2>
 
