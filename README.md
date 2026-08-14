@@ -1,4 +1,4 @@
-<a href="https://jakeayy.xyz" target="_blank"><img src="readme.svg" width="100%" /></a>
+<a href="https://jakeayy.ch" target="_blank"><img src="readme.svg" width="100%" /></a>
 
 
 
