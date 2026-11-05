@@ -1,0 +1,12 @@
+{
+	"name": "jakeayy-profile",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "node scripts/build.ts"
+	},
+	"devDependencies": {
+		"subset-font": "^2.9.0",
+		"svgo": "^4.1.0"
+	}
+}
